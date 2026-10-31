@@ -1,0 +1,35 @@
+[
+  {
+    "id": "generic-jeans-slim",
+    "brand": "Generic Denim Co.",
+    "garment": "jeans",
+    "garmentLabel": "Slim Straight Jeans",
+    "category": "lower",
+    "gender": "unisex",
+    "defaultEaseCm": { "waist": 1, "hip": 3 },
+    "sizes": [
+      { "size": "W29", "waist": [72, 75], "hip": [88, 92], "thigh": [51, 54], "inseam": [78, 82] },
+      { "size": "W30", "waist": [75, 78], "hip": [91, 95], "thigh": [53, 56], "inseam": [79, 83] },
+      { "size": "W31", "waist": [78, 81], "hip": [94, 98], "thigh": [55, 58], "inseam": [80, 84] },
+      { "size": "W32", "waist": [81, 85], "hip": [97, 101], "thigh": [57, 60], "inseam": [81, 85] },
+      { "size": "W33", "waist": [85, 88], "hip": [100, 104], "thigh": [59, 62], "inseam": [81, 85] },
+      { "size": "W34", "waist": [88, 92], "hip": [103, 107], "thigh": [61, 64], "inseam": [82, 86] },
+      { "size": "W36", "waist": [92, 98], "hip": [108, 113], "thigh": [64, 67], "inseam": [82, 86] }
+    ]
+  },
+  {
+    "id": "generic-shorts",
+    "brand": "Generic Active",
+    "garment": "shorts",
+    "garmentLabel": "Casual Summer Shorts",
+    "category": "lower",
+    "gender": "unisex",
+    "defaultEaseCm": { "waist": 3, "hip": 6 },
+    "sizes": [
+      { "size": "S (30)", "waist": [74, 80], "hip": [90, 96], "thigh": [54, 58], "inseam": [18, 22] },
+      { "size": "M (32)", "waist": [80, 86], "hip": [96, 102], "thigh": [58, 62], "inseam": [20, 24] },
+      { "size": "L (34)", "waist": [86, 92], "hip": [102, 108], "thigh": [62, 66], "inseam": [21, 25] },
+      { "size": "XL (36)", "waist": [92, 98], "hip": [108, 115], "thigh": [66, 70], "inseam": [22, 26] }
+    ]
+  }
+]

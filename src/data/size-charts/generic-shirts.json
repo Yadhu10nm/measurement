@@ -1,0 +1,35 @@
+[
+  {
+    "id": "generic-tshirt-unisex",
+    "brand": "Generic Standard",
+    "garment": "t_shirt",
+    "garmentLabel": "T-Shirt (Regular Fit)",
+    "category": "upper",
+    "gender": "unisex",
+    "defaultEaseCm": { "chest": 6, "waist": 6, "shoulder": 2 },
+    "sizes": [
+      { "size": "XS", "chest": [82, 88], "waist": [68, 74], "shoulder": [40, 42], "length": [64, 67] },
+      { "size": "S", "chest": [88, 94], "waist": [74, 80], "shoulder": [42, 44], "length": [67, 70] },
+      { "size": "M", "chest": [94, 102], "waist": [80, 88], "shoulder": [44, 47], "length": [70, 73] },
+      { "size": "L", "chest": [102, 110], "waist": [88, 96], "shoulder": [47, 50], "length": [73, 76] },
+      { "size": "XL", "chest": [110, 118], "waist": [96, 105], "shoulder": [50, 53], "length": [76, 79] },
+      { "size": "XXL", "chest": [118, 128], "waist": [105, 116], "shoulder": [53, 56], "length": [79, 82] }
+    ]
+  },
+  {
+    "id": "generic-formal-shirt",
+    "brand": "Generic Tailor",
+    "garment": "shirt",
+    "garmentLabel": "Button-Down Formal Shirt",
+    "category": "upper",
+    "gender": "menswear",
+    "defaultEaseCm": { "chest": 8, "waist": 8, "shoulder": 2 },
+    "sizes": [
+      { "size": "38 (S)", "chest": [88, 94], "waist": [76, 82], "shoulder": [42, 44], "sleeve": [61, 63], "length": [72, 75] },
+      { "size": "40 (M)", "chest": [94, 100], "waist": [82, 88], "shoulder": [44, 46], "sleeve": [63, 65], "length": [74, 77] },
+      { "size": "42 (L)", "chest": [100, 108], "waist": [88, 96], "shoulder": [46, 49], "sleeve": [65, 67], "length": [76, 79] },
+      { "size": "44 (XL)", "chest": [108, 116], "waist": [96, 104], "shoulder": [49, 52], "sleeve": [67, 69], "length": [78, 81] },
+      { "size": "46 (XXL)", "chest": [116, 126], "waist": [104, 114], "shoulder": [52, 55], "sleeve": [68, 70], "length": [80, 83] }
+    ]
+  }
+]

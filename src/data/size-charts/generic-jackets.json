@@ -1,0 +1,47 @@
+[
+  {
+    "id": "generic-hoodie",
+    "brand": "Generic Streetwear",
+    "garment": "hoodie",
+    "garmentLabel": "Fleece Hoodie (Comfort Fit)",
+    "category": "upper",
+    "gender": "unisex",
+    "defaultEaseCm": { "chest": 10, "waist": 10, "shoulder": 3 },
+    "sizes": [
+      { "size": "S", "chest": [88, 96], "waist": [74, 82], "shoulder": [44, 47], "sleeve": [62, 65], "length": [67, 70] },
+      { "size": "M", "chest": [96, 104], "waist": [82, 90], "shoulder": [47, 50], "sleeve": [64, 67], "length": [70, 73] },
+      { "size": "L", "chest": [104, 112], "waist": [90, 98], "shoulder": [50, 53], "sleeve": [66, 69], "length": [73, 76] },
+      { "size": "XL", "chest": [112, 122], "waist": [98, 108], "shoulder": [53, 56], "sleeve": [68, 71], "length": [76, 79] }
+    ]
+  },
+  {
+    "id": "generic-bomber-jacket",
+    "brand": "Generic Outerwear",
+    "garment": "jacket",
+    "garmentLabel": "Classic Bomber Jacket",
+    "category": "upper",
+    "gender": "unisex",
+    "defaultEaseCm": { "chest": 12, "waist": 10, "shoulder": 4 },
+    "sizes": [
+      { "size": "S", "chest": [90, 98], "waist": [78, 86], "shoulder": [45, 48], "sleeve": [63, 66], "length": [65, 68] },
+      { "size": "M", "chest": [98, 106], "waist": [86, 94], "shoulder": [48, 51], "sleeve": [65, 68], "length": [67, 70] },
+      { "size": "L", "chest": [106, 114], "waist": [94, 102], "shoulder": [51, 54], "sleeve": [67, 70], "length": [69, 72] },
+      { "size": "XL", "chest": [114, 124], "waist": [102, 112], "shoulder": [54, 57], "sleeve": [69, 72], "length": [71, 74] }
+    ]
+  },
+  {
+    "id": "generic-crew-sweater",
+    "brand": "Generic Knitwear",
+    "garment": "sweater",
+    "garmentLabel": "Crewneck Wool Sweater",
+    "category": "upper",
+    "gender": "unisex",
+    "defaultEaseCm": { "chest": 8, "waist": 8, "shoulder": 2 },
+    "sizes": [
+      { "size": "S", "chest": [88, 94], "waist": [76, 82], "shoulder": [43, 45], "sleeve": [62, 64], "length": [66, 68] },
+      { "size": "M", "chest": [94, 102], "waist": [82, 90], "shoulder": [45, 48], "sleeve": [64, 66], "length": [68, 71] },
+      { "size": "L", "chest": [102, 110], "waist": [90, 98], "shoulder": [48, 51], "sleeve": [66, 68], "length": [71, 74] },
+      { "size": "XL", "chest": [110, 118], "waist": [98, 106], "shoulder": [51, 54], "sleeve": [68, 70], "length": [74, 77] }
+    ]
+  }
+]

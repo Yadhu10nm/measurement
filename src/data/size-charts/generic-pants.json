@@ -1,0 +1,34 @@
+[
+  {
+    "id": "generic-trousers",
+    "brand": "Generic Standard",
+    "garment": "trousers",
+    "garmentLabel": "Chinos & Casual Trousers",
+    "category": "lower",
+    "gender": "unisex",
+    "defaultEaseCm": { "waist": 2, "hip": 5 },
+    "sizes": [
+      { "size": "28", "waist": [70, 74], "hip": [86, 90], "thigh": [50, 53], "inseam": [76, 80] },
+      { "size": "30", "waist": [74, 78], "hip": [90, 95], "thigh": [53, 56], "inseam": [78, 82] },
+      { "size": "32", "waist": [79, 84], "hip": [95, 100], "thigh": [56, 59], "inseam": [80, 84] },
+      { "size": "34", "waist": [84, 89], "hip": [100, 106], "thigh": [59, 62], "inseam": [81, 85] },
+      { "size": "36", "waist": [89, 95], "hip": [106, 112], "thigh": [62, 65], "inseam": [82, 86] },
+      { "size": "38", "waist": [95, 102], "hip": [112, 118], "thigh": [65, 69], "inseam": [82, 86] }
+    ]
+  },
+  {
+    "id": "generic-formal-pants",
+    "brand": "Generic Tailor",
+    "garment": "formal_pants",
+    "garmentLabel": "Formal Dress Trousers",
+    "category": "lower",
+    "gender": "menswear",
+    "defaultEaseCm": { "waist": 2, "hip": 4 },
+    "sizes": [
+      { "size": "30R", "waist": [75, 79], "hip": [91, 95], "thigh": [54, 57], "inseam": [78, 81] },
+      { "size": "32R", "waist": [80, 84], "hip": [96, 100], "thigh": [57, 60], "inseam": [80, 83] },
+      { "size": "34R", "waist": [85, 89], "hip": [101, 106], "thigh": [60, 63], "inseam": [81, 84] },
+      { "size": "36R", "waist": [90, 95], "hip": [106, 112], "thigh": [63, 67], "inseam": [82, 85] }
+    ]
+  }
+]
